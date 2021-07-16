@@ -12,3 +12,4 @@ jobs:
       - uses: chinthakagodawita/autoupdate@bd5708a4e03a2e30139fae713378946bf0f40ab8
         env:
           GITHUB_TOKEN: '${{ secrets.API_TOKEN_SITEPOLICY }}'
+(control+altr)<<enter>>>>
